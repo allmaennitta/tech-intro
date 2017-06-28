@@ -2,4 +2,9 @@ body{
     background-image: url(background.jpeg);
     background-repeat: no-repeat; /* CSS 1.0 */
     background-size: 100%; /* CSS 3.0 */
+    font-family: Tahoma;
+    font-size: 1em;
+}
+h3{
+    font-size: 3rem;
 }
