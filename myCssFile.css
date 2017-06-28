@@ -11,3 +11,9 @@ h3{
 .czgarden:hover{
     background-color: #bbb;
 }
+.ccademy {
+    position: relative;
+    top: 100px;
+    left: 100px;
+    width: 10%;
+}
