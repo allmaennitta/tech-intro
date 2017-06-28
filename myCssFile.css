@@ -8,3 +8,6 @@ body{
 h3{
     font-size: 3rem;
 }
+.czgarden:hover{
+    background-color: #bbb;
+}
