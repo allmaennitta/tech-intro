@@ -1,0 +1,67 @@
+HTML /  CSS /  JS
+    MVC-Prinzip
+	Model  (Daten)
+		Client-Server- Kommunikation (REST, json)
+	    Microservices
+		Server: Symfony und Java-Backend
+		Datenbanken
+			Indizierung (SOLR)
+			X Persistenz
+		Caching (Daten-Requests)
+	View (GUI / UX / Darstellungslogik)
+		HTML5
+			DOM
+			Templates(=>Serienbrief), Template-Engine
+			Barrierefreiheit
+		CSS
+			Media Queries
+			Responsive Design
+			X Grid
+			X SASS
+		Resources (Bilder, Musik, Videos)
+			Bitmap vs. Vektorgrafik, SVG
+		Javascript
+			Libraries (z.B. jQuery)
+				Rad nicht neu erfinden
+				Module, Abhängigkeiten und Versionen (npm)
+				Precompiling (gulp, browserify)
+			X Frameworks => Schnelle DOM-Operationen
+			X Frameworks => MVC im Browser Angular2
+			X TypeScript
+		Browser-Besonderheiten, z.B. IE
+		Styleguide, am besten dynamisch (z.B  Patternlab2)
+		Performance
+			Caching und Cachebusting
+			Dateigrößen
+		Software oder App statt Browser
+	Controller
+		Session
+		Permissions
+		Routing (URLs)
+		Requests
+			Seite
+			Innerhalb (AJAX)
+				Model- View- Controller- Clientside
+		Caching (Seiten)
+	Netzwerk
+		TCP/IP
+		Domain Name Server
+		HTTP HTTPS HTTP2
+		Webserver ServletContainer ApplicationServer
+	Deployment
+		Verteilte Versionsverwaltung (git)
+		Build-Prozess (gulp, maven,  scripting)
+		Deploybare Pakete
+		Continuous Delivery (Jenkins)
+	Testing
+		UnitTests
+		Integrationstests und API-Tests
+		GUI-Tests
+		Manuelle Tests
+	Web2Web
+		SEO (Verlinkung, Content, Linkjuice)
+		Tracking
+			Google Analytics, Webtrekk, etc.
+		Data Warehouse
+		AB-Tests
+			Maxymiser, etc.
